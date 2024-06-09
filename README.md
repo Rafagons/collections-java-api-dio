@@ -1,9 +1,9 @@
 # 💻📖📚  Conhecendo Collections Java. 📖📚🖥️
 ********************************************************************************************
 
-👩🏻‍💻 Descrição do Repositório:
+## 👩🏻‍💻 Descrição do Repositório:
 
-    Repositório criado para executar os exercícios propostos pela professora, abordando as seguintes coleções Java: List, Set e Map.
+Repositório criado para executar os exercícios propostos pela professora, abordando as seguintes coleções Java: List, Set e Map.
 
 
 ## 🛠️ Construído com
