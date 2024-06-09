@@ -1,4 +1,4 @@
-package Pesquisa;
+package list.Pesquisa;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -84,5 +84,3 @@ public class SomaNumeros {
     System.out.println("Menor número = " + somaNumeros.encontrarMenorNumero());
   }
 }
-    
-
