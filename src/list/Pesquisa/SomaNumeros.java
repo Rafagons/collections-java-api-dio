@@ -64,11 +64,11 @@ public class SomaNumeros {
     SomaNumeros somaNumeros = new SomaNumeros();
 
     // Adicionando números à lista
-    somaNumeros.adicionarNumero(5);
-    somaNumeros.adicionarNumero(0);
-    somaNumeros.adicionarNumero(0);
-    somaNumeros.adicionarNumero(-2);
-    somaNumeros.adicionarNumero(10);
+    somaNumeros.adicionarNumero(6);
+    somaNumeros.adicionarNumero(1);
+    somaNumeros.adicionarNumero(1);
+    somaNumeros.adicionarNumero(8);
+    somaNumeros.adicionarNumero(19);
 
     // Exibindo a lista de números adicionados
     System.out.println("Números adicionados:");
