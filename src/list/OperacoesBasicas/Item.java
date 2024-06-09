@@ -1,4 +1,4 @@
-package OperacoesBasicas;
+package list.OperacoesBasicas;
 public class Item {
     //atributos
       private String nome;
